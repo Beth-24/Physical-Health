@@ -4,9 +4,12 @@ This is a project that tracked the activity levels of an individual from Jan 202
 - Eliminate the first row to enable auto schema detection using Python
 - Formatted files name using Python (pandas)
 
-BEFORE 
-![alt text](image.jpg)
-AFTER
+>BEFORE 
+
+![alt text](Before.png)
+
+>AFTER
+
 ![alt text](After.png)
 
 - Had to clean data using Python before importing it to BigQuery. 
