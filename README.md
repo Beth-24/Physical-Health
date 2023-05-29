@@ -7,7 +7,7 @@ This is a project that tracked the activity levels of an individual from Jan 202
 BEFORE 
 ![alt text](image.jpg)
 AFTER
-![alt text](image.jpg)
+![alt text](After.png)
 
 - Had to clean data using Python before importing it to BigQuery. 
 - Imported dataset into BigQuery to perform SQL operations
