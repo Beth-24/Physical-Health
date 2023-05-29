@@ -1,0 +1,5 @@
+manufacturer,providing_step_goal,step_source_group,device_type,backsync_step_goal,capability,device_group,update_time,create_time,name,model,connectivity_type,deviceuuid,pkg_name,fixed_name,datauuid
+,,,,,360001,2022-09-16 02:23:14.115,2022-09-15 22:29:18.211,My Device,SM-S906U,,+OWbbAvnWG,com.sec.android.app.shealth,Jose's S22+,b1418924-74cc-580c-8b41-13741a2c20b5,
+,,,,,0,2022-09-16 02:24:11.828,2022-09-16 02:24:11.828,Combined,Combined,,VfS0qUERdZ,com.sec.android.app.shealth,Jose's S22+,7af9722c-cd99-07b7-853a-43ce58e819c5,
+,,,,,0,2022-09-16 02:24:15.019,2022-09-16 02:24:15.019,all_target,all_target,,Mk66SbFqK1,com.sec.android.app.shealth,Jose's S22+,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+1.0,102.0,10054.0,1.0,60f44099-b029-4bbe-878d-6bfe19d2ff8a.capability.json,360003,2023-05-04 14:32:41.782,2022-09-20 20:10:40.657,Galaxy Watch4,SM-R870,,oL6fnwM6i7,com.sec.android.app.shealth,Jose's S22+,60f44099-b029-4bbe-878d-6bfe19d2ff8a,

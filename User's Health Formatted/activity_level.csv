@@ -1,0 +1,4 @@
+activity_level,start_time,update_time,create_time,time_offset,deviceuuid,pkg_name,datauuid
+2022-09-17 17:22:28.351,2022-09-17 17:22:28.351,2022-09-17 17:22:28.358,UTC-0400,+OWbbAvnWG,com.sec.android.app.shealth,a09cc248-d7f6-4111-b894-ce7d7e0f03b5,
+2022-10-03 02:32:57.939,2022-10-03 02:32:57.939,2022-10-03 02:32:57.944,UTC-0400,+OWbbAvnWG,com.sec.android.app.shealth,86c42fd6-04fb-46ca-8b2d-da5ef39e965e,
+2022-10-03 02:31:44.223,2022-10-03 02:31:44.223,2022-10-03 02:31:44.232,UTC-0400,+OWbbAvnWG,com.sec.android.app.shealth,470fa493-4cfa-4d9c-949a-6466a4ccb846,
